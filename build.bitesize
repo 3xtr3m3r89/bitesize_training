@@ -1,4 +1,4 @@
-project: bitesizedemo
+project: bitedemo
 components:
   - name: spring-app
     os: linux
